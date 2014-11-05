@@ -1,0 +1,11 @@
+{
+  "name": "Select text new tabs",
+  "description": "open each tab from your selected text",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
